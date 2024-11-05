@@ -110,6 +110,9 @@ Build the kernel and loadable kernel modules:
 
 Build all the third-party ports:
 
+    # cd /usr/ports/ports-mgmt/pkg
+    # make && make reinstall
+
     # make ports
 
 Build additional plugins if needed:
