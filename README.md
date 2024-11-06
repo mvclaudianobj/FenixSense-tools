@@ -1,4 +1,4 @@
-About the OPNsense tools
+About the FenixSense tools
 ========================
 
 In conjunction with src.git, ports.git, core.git and plugins.git they
